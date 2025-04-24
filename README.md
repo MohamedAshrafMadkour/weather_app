@@ -1,16 +1,20 @@
-# today_weather
+# weather_app
 
-A new Flutter project.
+The Weather App is a Flutter-based application that provides accurate and up-to-date real-time weather information for any location globally.
 
-## Getting Started
+Features
+Live Weather Updates: Displays live weather data based on the user's current location or specified cities.
 
-This project is a starting point for a Flutter application.
+Attractive User Interface: A simple and user-friendly UI designed using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Multi-location Support: Users can enter any city to get weather information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Programming Language: Dart
+
+Framework: Flutter
+
+dio Package: For fetching data from the internet.
+
+
+
