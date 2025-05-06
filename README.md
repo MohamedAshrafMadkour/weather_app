@@ -19,8 +19,8 @@ Framework: Flutter
 
 HTTP Client: dio for making API requests
 
-State Management: (يمكنك إضافة Cubit أو أي طريقة إذا كانت مستخدمة)
+State Management: (cubit)
 
-API: (يفضل تحديد API المستخدم مثل OpenWeatherMap
+
 
 
